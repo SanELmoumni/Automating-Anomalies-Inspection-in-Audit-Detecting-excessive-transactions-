@@ -1,7 +1,7 @@
 # Automating Anomalies Inspection in Audit : Detecting excessive transactions !
 
 
-![Case-Based reasoning](Images/Capture.png)
+![Suspicious behaviour, WARNING !](Images/Capture.PNG)
 
 During my experience in the bank's internal audit, a special type of employees who committed more than 3 "super" transactions in their account represent a suspicious behaviour, and could be a very good target to focus more on them to detect the internal fraud.
 
